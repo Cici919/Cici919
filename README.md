@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Cici919** is a ✨ _special_ ✨ repository mainly created for studying the course CS3354.
+Cici919** is a ✨ _special_ ✨ repository mainly created for me to study the course CS3354.
 
 
 - 🔭 I’m currently working on my CS 3354 Team project 
